@@ -1,8 +1,8 @@
 <div align="center">
 
-![Junha Kim — Med student running three businesses on Claude Code](assets/banner.png)
+![Junha Kim — Med student running three businesses](assets/banner.png)
 
-**Med student · founder · building in public. I run my companies, my studies and my life on Claude Code.**
+**Med student · founder · building in public.**
 
 </div>
 
