@@ -30,7 +30,7 @@
 
 ## Stack
 
-![skills](https://skillicons.dev/icons?i=python,bash,js,html,css,figma,notion,vercel)
+Python and Bash for the pipelines, LangChain and LangGraph when an agent needs state, Claude Code for almost everything else. Enough JavaScript to ship a site, enough Java and Kotlin to read one. Figma for the pictures, Notion for the words.
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
