@@ -2,8 +2,6 @@
 
 ![Junha Kim — Med student running three businesses](assets/banner.png)
 
-**Med student · founder · building in public.**
-
 </div>
 
 ## Now
