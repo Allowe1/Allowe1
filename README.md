@@ -11,10 +11,6 @@
 - **Clinic Web & SEO** — sites and search for clinics.
 - M2, Yeungnam University College of Medicine.
 
-## Building
-
-- **[E.D.I.T.H](https://github.com/Allowe1/E.D.I.T.H)** — my AI chief of staff. *Even Dead, I'm The Hero.*
-
 ## Rules
 
 - Tools before agents.
